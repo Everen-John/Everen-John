@@ -1,9 +1,9 @@
-## About Me
+## About Me 👋
 - 💻 Software Engineer
-- 🇲🇾 Malaysian
+- 🏙 Malaysian
 - 🎓 Graduated in 2023 at Universiti Tunku Abdul Rahman 
 
-## What I'm up to
+## What I'm up to 🛠
 - Currently:
   - Working on Rust Advent of Code!
   - Looking for jobs
