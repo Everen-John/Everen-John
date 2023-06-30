@@ -1,7 +1,8 @@
 ## About Me 👋
 - 💻 Software Engineer
 - 🏙 Malaysian
-- 🎓 Graduated in 2023 at Universiti Tunku Abdul Rahman 
+- 🎓 Graduated Honours in Software Engineering in 2023 at Universiti Tunku Abdul Rahman
+- 💢 Got laid off awhile ago, but we keep trying new things! 💪
 
 ## What I'm up to 🛠
 - Currently:
