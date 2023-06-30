@@ -11,10 +11,14 @@
 - In the future, I would like to:
   - Make VRChat Worlds with Udon
   - Game development on Bevy
+  - Finish reading "Zero to Production in Rust"
 
 ## Github Metrics
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" width="50%">
 </picture>
 
-## Lets talk!
+## Shoot me a message!
+Links are to the side, and please feel free to message me!
+
+❤ Have a good day ahead 👨‍💻
