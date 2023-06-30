@@ -13,4 +13,8 @@
   - Game development on Bevy
 
 ## Github Metrics
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" width="50%">
+</picture>
+
 ## Lets talk!
