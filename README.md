@@ -11,7 +11,7 @@
   - Model texturing and Blender!
 - In the future, I would like to:
   - Make VRChat Worlds with Udon
-  - Game development on Bevy
+  - Rust Stack
   - Finish reading "Zero to Production in Rust"
 
 ## Github Metrics
