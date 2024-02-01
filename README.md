@@ -2,7 +2,7 @@
 - 💻 Software Engineer
 - 🏙 Malaysian
 - 🎓 Graduated Honours in Software Engineering in 2023 at Universiti Tunku Abdul Rahman
-- 💢 Got laid off awhile ago, but we keep trying new things! 💪
+- ⌚ HUROS, SPL/CE, SIGMA 
 
 ## What I'm up to 🛠
 - Currently:
